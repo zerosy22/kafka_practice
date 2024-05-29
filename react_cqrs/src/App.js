@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {Paper} from "@material-ui/core"
+import {Paper} from "@material-ui/core";
 import AddToDo from "./AddSignup";
 import Axios from "axios";
 
